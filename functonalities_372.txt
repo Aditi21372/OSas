@@ -1,0 +1,29 @@
+﻿Exit will exit the working code.
+
+
+Ls will print the list of all the files and directories.
+Ls -n will print the  list of all the files and directories.
+Ls -a will show all the hidden files and directories.
+
+
+
+
+Cd / move into the system's working directory
+Cd will return the previous directory.
+Cd . . will return back to the previous directory.
+
+
+ 
+Echo * will print the list of all the files and directories.
+Echo --help would show a help message.
+Echo will print string or empty space.
+
+
+
+
+Pwd will show all the current directories.
+
+
+Date -u will represent the time in UTC
+Date -R will print the time of device current time with global time zone.
+Date prints  normal device current time.
